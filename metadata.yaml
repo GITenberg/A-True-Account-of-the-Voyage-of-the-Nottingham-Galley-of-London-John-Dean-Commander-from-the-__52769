@@ -1,5 +1,8 @@
 _repo: A-True-Account-of-the-Voyage-of-the-Nottingham-Galley-of-London-John-Dean-Commander-from-the-__52769
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52769-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Mellen, Nicholas
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '47034'
     url: http://www.gutenberg.org/2009/agents/47034
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52769#A-True-Account-of-the-Voyage-of-the-Nottingham-Galley-of-London-John-Dean-Commander-from-the-_
 gutenberg_issued: '2016-08-10'
 gutenberg_type: Text
 identifiers:
