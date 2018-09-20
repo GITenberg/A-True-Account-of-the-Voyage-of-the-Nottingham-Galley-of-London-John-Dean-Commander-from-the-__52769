@@ -1,0 +1,32 @@
+_repo: A-True-Account-of-the-Voyage-of-the-Nottingham-Galley-of-London-John-Dean-Commander-from-the-__52769
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Mellen, Nicholas
+    gutenberg_agent_id: '47035'
+    url: http://www.gutenberg.org/2009/agents/47035
+  - agent_name: White, George, sailor on the Nottingham galley
+    gutenberg_agent_id: '43064'
+    url: http://www.gutenberg.org/2009/agents/43064
+  - agent_name: Langman, Christopher
+    gutenberg_agent_id: '47034'
+    url: http://www.gutenberg.org/2009/agents/47034
+description: ''
+gutenberg_issued: '2016-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52769'
+  lccn: 04029761
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nottingham Galley (Merchant ship)'
+- !lcsh 'Boon Island (Me.)'
+- !lcc 'F001'
+- GITenberg
+title: 'A True Account of the Voyage of the Nottingham-Galley of London,
+
+  John Dean Commander, from the River Thames to New-England'
+url: http://www.gutenberg.org/ebooks/52769
